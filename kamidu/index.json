@@ -2,48 +2,32 @@
   "title": "WSO2 Micro Integrator",
   "description": "Quick Start Guide for WSO2 Micro Integrator",
   "difficulty": "Beginner",
-  "time": "30",
+  "time": "6",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Setting Up The Environment",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Download and Prepare Sample Project Artifacts",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "The Content of the Sample Project",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Creating a container with WSO2 Micro Integrator",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Running WSO2 Micro Integrator",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Testing Your Sample Application",
         "text": "step6.md"
-      },
-      {
-        "title": "Step 7",
-        "text": "step7.md"
-      },
-      {
-        "title": "Step 8",
-        "text": "step8.md"
-      },
-      {
-        "title": "Step 9",
-        "text": "step9.md"
-      },
-      {
-        "title": "Step 10",
-        "text": "step10.md"
       }
     ],
     "intro": {

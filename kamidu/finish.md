@@ -1,0 +1,1 @@
+You can setup the same in your local machine and start using wso2 micro integrator. Please refer the [Quick Start with WSO2 Micro Integrator](https://docs.wso2.com/display/EI650/Quick+Start+with+WSO2+Micro+Integrator) for more information.
