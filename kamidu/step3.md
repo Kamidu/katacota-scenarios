@@ -24,6 +24,6 @@ This is the Composite Application Project folder, which contains the packaged CA
 # Dockerfile
 	
 This Docker configuration file is configured to build a Docker image for WSO2 Micro Integrator with the HelloWorld service.
- `Dockerfile` {{open}}
+ `Dockerfile`{{open}}
  
 Note that this file is configured to use the community version of the WSO2 Micro Integrator base Docker image (from DockerHub). If you want to use the Micro Integrator that includes the latest product updates, you can update the image name in this Docker file as explained here.

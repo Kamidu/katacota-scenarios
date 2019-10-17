@@ -1,5 +1,5 @@
 Let's create a docker image with WSO2 migro intregrator and the sample artifacts.
-`docker build -t hello_world_docker_image .` {{execute}}
+`docker build -t hello_world_docker_image .`{{execute}}
 
 Above command executes the following tasks:
 
